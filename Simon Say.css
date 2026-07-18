@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+.color-button{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 15%;
+    display: inline-block;
+    margin: 10px;
+}
+
+#green{
+    background-color: rgb(152, 255, 152);
+}
+#red{
+    background-color: rgb(255, 133, 133);
+}
+#yellow{
+    background-color: rgb(253, 253, 105);
+}
+#blue{
+    background-color: rgb(157, 225, 248);
+}
